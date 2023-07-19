@@ -109,7 +109,7 @@ const HomeScreen = () => {
     };
     fetchProducts();
   }, []);
-  console.log(product);
+  //console.log(product);
   const services = [
     {
       id: "0",
