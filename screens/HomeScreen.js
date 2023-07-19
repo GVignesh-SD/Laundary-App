@@ -90,7 +90,7 @@ const HomeScreen = () => {
       for (let item of response) {
         let address = `${item.name} ${item.city} ${item.postalCode}`;
         setdisplayCurrentAddress(address);
-        console.log(response)
+        //console.log(response)
       }
     }
   };
