@@ -171,4 +171,4 @@ const RegisterScreen = () => {
 
 export default RegisterScreen;
 
-//const styles = StyleSheet.create({});
+const styles = StyleSheet.create({});
